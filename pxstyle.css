@@ -1,0 +1,115 @@
+html {
+    font-family:verdana;
+    color:#606249;
+    text-align:left;}
+
+body {width:1000px;}
+
+
+
+
+
+hr.footer_bar {
+    color:#666666;}
+
+div.nav_footer{
+    font-size:11px;
+    color:#666666;
+    text-align:left;}
+
+div.nav_footer a {
+    text-decoration:none;
+    color:#666666;}
+
+div.nav_footer a:hover {
+    text-decoration:underline;
+    font-weight:bold;}
+    
+h1.page_title {
+    font-size:18px;}
+
+h2.section_title {font-size:15px;clear:both;}
+
+
+#products {
+    font-size:13px;
+    font-weight:bold;}
+
+#products img {
+    border:hidden ;}
+
+
+a.button_start {
+    display:block;
+    width:180px;
+    height:74px;
+    background-image:url("http://www.picstickers.com/design/start_making.jpg");}
+
+a.button_start:hover {
+    background-image:url("http://www.picstickers.com/design/start_making2.jpg");}
+
+#list_products li {
+    font-size:13px;
+    font-weight:bold;
+    display:inline;
+    list-style:none;
+    padding:10px;}
+    
+li.superlarge img { width:300px; height:191px;}
+li.large img { width:164px; height:109px;}
+li.medium img { width:109px; height:82px;}
+li.small img { width:82px; height:55px;}
+li.square img { width:55; height:55px;}
+
+div.section_marquee {height:330px; width:1000px;position:relative;}
+div.marquee_image {position:absolute;width=650;}
+div.marquee_copy {position:absolute;left:630px;}
+
+div.alt_header {height:50px; width:1000px;position:relative;}
+div.header_logo {position:absolute;width=650;}
+div.header_nav{position:absolute;right:5px;top:30px;font-size:12px;
+    color:#666666;
+    text-align:right;}
+div.header_nav a {
+    text-decoration:none;
+    color:#666666;}
+div.header_nav a:hover {
+    text-decoration:none;
+    color:orange;
+    font-weight:bold;}
+ 
+ 
+ 
+div.product_display {
+    border:1px solid red; width:1000px; height:500px;position:relative;
+    font-size:13px;text-align:center;font-weight:bold;}
+
+
+
+div.display_xl { border:1px solid green; width:310px; height:210px;position:absolute;}
+div.display_lg { border:1px solid green; width:180px; height:210px;position:absolute;left:320px;}
+div.display_md { border:1px solid green; width:120px; height:210px;position:absolute;left:510px;}
+div.display_sm { border:1px solid green; width:95px; height:210px;position:absolute;left:640px;}
+div.display_sq { border:1px solid green; width:60px; height:210px;position:absolute;left:745px;}
+
+div.display_bt { border:1px solid green; width:185px; height:210px;position:absolute;left:815px;top:50px;}
+
+div.display_xl img { width:300px; height:191px; border:hidden;}
+div.display_lg img { width:164px; height:109px;border:hidden; }
+div.display_md img { width:109px; height:82px;border:hidden; }
+div.display_sm img { width:82px; height:55px;border:hidden;}
+div.display_sq img { width:55px; height:55px;border:hidden;}
+
+div.display_xlss { border:1px solid green; width:310px; height:210px;position:absolute;top:220px;}
+div.display_lgss { border:1px solid green; width:180px; height:210px;position:absolute;left:320px;top:220px;}
+div.display_mdss { border:1px solid green; width:120px; height:210px;position:absolute;left:510px;top:220px;}
+div.display_smss { border:1px solid green; width:95px; height:210px;position:absolute;left:640px;top:220px;}
+div.display_sqss { border:1px solid green; width:60px; height:210px;position:absolute;left:745px;top:220px;}
+
+div.display_xlss img { width:300px; height:191px;border:hidden;}
+div.display_lgss img { width:164px; height:109px;border:hidden;}
+div.display_mdss img { width:109px; height:82px;border:hidden;}
+div.display_smss img { width:82px; height:55px;border:hidden;}
+div.display_sqss img { width:55px; height:55px;border:hidden;}
+
+
